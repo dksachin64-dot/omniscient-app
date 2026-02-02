@@ -1,0 +1,14 @@
+name: omniscient_app
+description: OMNISCIENT AI Financial Intelligence App
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+
+flutter:
+  uses-material-design: true
